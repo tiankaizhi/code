@@ -13,6 +13,8 @@
 
     <modules>
         <module>lock</module>
+        <module>string</module>
+        <module>thread</module>
     </modules>
 
     <parent>
