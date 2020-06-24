@@ -12,9 +12,10 @@
     <description>dairy</description>
 
     <modules>
-        <module>lock</module>
-        <module>string</module>
+        <module>jvm</module>
         <module>thread</module>
+        <module>concurrent</module>
+        <module>base</module>
     </modules>
 
     <parent>
@@ -43,8 +44,6 @@
     </properties>
 
     <dependencyManagement>
-        <dependencies>
-        </dependencies>
     </dependencyManagement>
 
     <dependencies>
