@@ -17,6 +17,7 @@
         <module>concurrent</module>
         <module>base</module>
         <module>spi</module>
+        <module>zookeeper</module>
     </modules>
 
     <parent>

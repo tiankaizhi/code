@@ -90,9 +90,6 @@ public class SpiTest {
     // List of registered JDBC drivers
 //    private final static CopyOnWriteArrayList<DriverInfo> registeredDrivers = new CopyOnWriteArrayList<>();
 
-
     // // http://dubbo.apache.org/zh-cn/docs/dev/SPI.html
     // ExtensionLoader.getExtension(String name) ，拓展加载器。这是 Dubbo SPI 的核心。
-
-
 }
